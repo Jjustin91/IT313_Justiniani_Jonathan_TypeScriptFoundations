@@ -1,0 +1,21 @@
+{
+  "name": "laboratory-3-it-313-mobile-programming",
+  "version": "1.0.0",
+  "description": "IT313 Laboratory 3 - Enrollment Eligibility Checker in TypeScript",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "build": "tsc",
+    "check": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@types/node": "^26.6.5",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.15",
+    "typescript": "^7.0.2"
+  }
+}
